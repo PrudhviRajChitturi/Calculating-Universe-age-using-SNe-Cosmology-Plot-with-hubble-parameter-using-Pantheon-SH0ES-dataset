@@ -52,3 +52,6 @@ The project generates:
 - **The Hubble Diagram:** A plot showing the expansion of the universe over time.
 - **Parameter Estimates:** Calculated values for $H_0$ (km/s/Mpc) and $\Omega_m$.
 - **Sub-sample Analysis:** Comparisons showing how the Hubble constant behaves when calculated from different cosmic distances.
+
+## **⚖License**
+- This Project is MIT Licensed.
