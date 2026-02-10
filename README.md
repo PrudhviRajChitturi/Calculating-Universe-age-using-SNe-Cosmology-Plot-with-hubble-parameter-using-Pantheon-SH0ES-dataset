@@ -53,5 +53,12 @@ The project generates:
 - **Parameter Estimates:** Calculated values for $H_0$ (km/s/Mpc) and $\Omega_m$.
 - **Sub-sample Analysis:** Comparisons showing how the Hubble constant behaves when calculated from different cosmic distances.
 
+## 🧑‍💻 Author
+
+Chitturi Prudhvi Raj
+- **GitHub:**	https://github.com/PrudhviRajChitturi
+- **LinkedIn:**	https://www.linkedin.com/in/prudhvi-raj-chitturi
+- **📧Email:**	rprudhvi144@gmail.com
+
 ## **⚖License**
 - This Project is MIT Licensed.
